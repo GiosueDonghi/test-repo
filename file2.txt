@@ -1,1 +1,2 @@
 prima riga nel file 2
+riga bug fix
