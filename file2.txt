@@ -1,2 +1,4 @@
 prima riga nel file 2
 riga bug fix
+aggiunto lo stile al file 2
+
