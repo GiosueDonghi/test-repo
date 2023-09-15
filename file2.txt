@@ -1,3 +1,8 @@
 prima riga nel file 2
 riga bug fix
+<<<<<<< HEAD
 questa rga è ststa aggiunta nel main dopo aver creato il  ramo stile
+=======
+aggiunto lo stile al file 2
+
+>>>>>>> stile
