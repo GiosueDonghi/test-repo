@@ -1,2 +1,3 @@
 prima riga nel file 2
 riga bug fix
+questa rga è ststa aggiunta nel main dopo aver creato il  ramo stile
